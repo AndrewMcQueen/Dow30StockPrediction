@@ -1,5 +1,5 @@
 # Dow30StockPrediction <br />
-__Encarnacao, K., Hodges, M., Lee, M., and McQueen, A.__ <br />
+*Encarnacao, K., Hodges, M., Lee, M., and McQueen, A.* <br />
 Spring 2022 <br />
 
 
